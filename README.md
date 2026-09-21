@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Gaibril Kyle Gregorio 👋</h1>
+<h1 align="center">Hi there, I'm Gaibril Kyle Gregorio!</h1>
 
 <h3 align="center">🎓 BS Computer Science Student @ De La Salle University</h3>
 
