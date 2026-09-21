@@ -28,8 +28,8 @@
 
 I'm a Computer Science student at De La Salle University with experience in software development, quality assurance, UI/UX design, and machine learning. I enjoy building applications that solve real-world problems while maintaining high software quality through testing and automation.
 
-- 🌱 Currently learning advanced software engineering, databases, operating systems, and cloud technologies
-- 💬 Ask me about React/TypeScript apps, test automation with Playwright, Containerization, and DevOps technologies
+- Currently learning advanced software engineering, databases, operating systems, and cloud technologies
+- Ask me about React/TypeScript apps, test automation with Playwright, Containerization, and DevOps technologies
 - ⚡ Fun fact: I am Inactively Active
 
 ---
