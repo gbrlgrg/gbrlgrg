@@ -3,7 +3,7 @@
 <h3 align="center">🎓 BS Computer Science Student @ De La Salle University</h3>
 
 <p align="center">
-💻 AI/ML, Data, and Software Engineer in training.
+💻 AI/ML, Data, or Software Engineer in training.
 </p>
 
 <p align="center">
