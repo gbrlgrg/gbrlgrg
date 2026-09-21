@@ -45,7 +45,6 @@ I'm a Computer Science student at De La Salle University with experience in soft
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Assembly](https://img.shields.io/badge/x86--64_ASM-6E4C13?style=for-the-badge&logo=assembly&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -65,67 +64,6 @@ I'm a Computer Science student at De La Salle University with experience in soft
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🖥️ Ca-Ching! CPU Cache Visualizer
-Interactive educational exhibit that visualizes CPU cache architecture and replacement algorithms.
-
-**Stack:** Astro 6, React, TypeScript, Tailwind CSS v4
-
-</td>
-<td width="50%">
-
-### ⚙️ IEEE 754 Decimal64 Simulator
-Educational web app demonstrating Decimal64 floating-point representation, conversions, and arithmetic.
-
-**Stack:** React, TypeScript, Next.js, TailwindCSS
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🍽️ ArcherEats
-A review platform for food establishments around the DLSU campus.
-
-**Stack:** React, TypeScript, Node.js, Express, MongoDB, TailwindCSS
-
-</td>
-<td width="50%">
-
-### 🧪 Asceoft UGC System
-Led software testing efforts; built Playwright automation for authentication and proposal workflows.
-
-**Stack:** Playwright, Automated Testing, QA Engineering
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🚍 BiyaHero
-High-fidelity Figma prototype focused on improving commuting experiences.
-
-**Stack:** Figma, UI/UX Design, User Research, Usability Testing
-
-</td>
-<td width="50%">
-
-### 🤖 AI & Machine Learning
-PinoyBot (language classifier), CatBot (RL agent), SokoBot (puzzle solver)
-
-**Stack:** Python, ML/RL fundamentals
-
-</td>
-</tr>
-</table>
 
 ---
 
