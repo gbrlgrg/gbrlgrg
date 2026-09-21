@@ -96,8 +96,8 @@ I'm a Computer Science student at De La Salle University with experience in soft
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=gbrlgrg&theme=tokyo-night&hide_border=true"
-    alt="Contribution Graph"
+    src="https://raw.githubusercontent.com/gbrlgrg/gbrlgrg/output/activity-graph.svg"
+    alt="Gaibril's GitHub Activity Graph"
     width="95%"
   />
 </p>
