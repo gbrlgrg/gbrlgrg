@@ -28,11 +28,9 @@
 
 I'm a Computer Science student at De La Salle University with experience in software development, quality assurance, UI/UX design, and machine learning. I enjoy building applications that solve real-world problems while maintaining high software quality through testing and automation.
 
-- 🔭 Currently working on **Ca-Ching! — The CPU Cache Visualizer**, a group exhibit project that visualizes cache architecture and replacement algorithms
 - 🌱 Currently learning advanced software engineering, databases, operating systems, and cloud technologies
-- ⚙️ Getting hands-on with low-level systems programming in **x86-64 NASM assembly**
-- 💬 Ask me about React/TypeScript apps, test automation with Playwright, or CPU cache simulation
-- ⚡ Fun fact: I like verifying my assembly arithmetic by hand before trusting the debugger
+- 💬 Ask me about React/TypeScript apps, test automation with Playwright, Containerization, and DevOps technologies
+- ⚡ Fun fact: I am Inactively Active
 
 ---
 
@@ -69,26 +67,40 @@ I'm a Computer Science student at De La Salle University with experience in soft
 
 ## 📈 Current Focus
 
-`Software Engineering` · `QA & Test Automation` · `Cloud & DevOps` · `AI/ML` · `HCI` · `Full-Stack Web` · `Computer Systems (x86-64 ASM)`
+`Software Engineering` · `QA & Test Automation` · `Cloud & DevOps` · `AI/ML` · `HCI` · `Full-Stack Web`
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gbrlgrg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Gaibril's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gbrlgrg&theme=tokyonight&hide_border=true" alt="Gaibril's GitHub streak" height="165"/>
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=gbrlgrg&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Gaibril's GitHub Stats"
+    height="165"
+  />
+  <img
+    src="https://streak-stats.demolab.com/?user=gbrlgrg&theme=tokyonight&hide_border=true"
+    alt="Gaibril's GitHub Streak"
+    height="165"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbrlgrg&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=gbrlgrg&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+    height="165"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gbrlgrg&theme=tokyo-night&hide_border=true" alt="Contribution graph" width="95%"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=gbrlgrg&theme=tokyo-night&hide_border=true"
+    alt="Contribution Graph"
+    width="95%"
+  />
 </p>
-
-> 💡 GitHub stats cards render automatically once this README is on a repo named exactly `gbrlgrg/gbrlgrg` (your profile repo) — no setup needed beyond that.
 
 ---
 
