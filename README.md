@@ -3,7 +3,7 @@
 <h3 align="center">BS Computer Science Student @ De La Salle University</h3>
 
 <p align="center">
-I am primarily interested in AI/ML, Data, and Software Engineering with a growing pursuit for Automation, Cloud, and CI/CD. 
+I am primarily interested in AI/ML, Data Science, and Software Engineering with a growing pursuit for Automation, Cloud, and CI/CD. 
 </p>
 
 <p align="center">
@@ -22,11 +22,11 @@ I am primarily interested in AI/ML, Data, and Software Engineering with a growin
 
 ## About Me
 
-I'm a Computer Science student majoring Software Technology at De La Salle University, currently splitting my time between learning AI/ML, data, automation, CI/CD and full-stack web development.
+I'm a Computer Science student majoring Software Technology at De La Salle University, currently splitting my time between learning AI/ML, data science, automation, CI/CD and full-stack web development.
 
 - Coursework spans computer systems, algorithms, and web application development
 - Comfortable with React/TypeScript apps and test automation with Playwright
-- Always down to talk about UI/UX design or how caches actually work under the hood
+- Always down to talk and willing to learn about UI/UX design, or any of the stuff mentioned above.
 
 ---
 
