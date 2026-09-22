@@ -66,11 +66,6 @@ I'm a Computer Science student majoring Software Technology at De La Salle Unive
 
 <p align="center">
   <img
-    src="https://github-stats-extended.vercel.app/api?username=gbrlgrg&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Gaibril's GitHub Stats"
-    height="165"
-  />
-  <img
     src="https://streak-stats.demolab.com/?user=gbrlgrg&theme=tokyonight&hide_border=true"
     alt="Gaibril's GitHub Streak"
     height="165"
