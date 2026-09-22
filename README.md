@@ -26,7 +26,7 @@ I'm a Computer Science student majoring Software Technology at De La Salle Unive
 
 - Coursework spans computer systems, algorithms, and web application development
 - Comfortable with React/TypeScript apps and test automation with Playwright
-- Always down to talk and willing to learn about UI/UX design, or any of the stuff mentioned above.
+- Always down to talk and willing to learn about any of the stuff mentioned above.
 
 ---
 
