@@ -70,9 +70,6 @@ I'm a Computer Science student majoring Software Technology at De La Salle Unive
     alt="Gaibril's GitHub Streak"
     height="165"
   />
-</p>
-
-<p align="center">
   <img
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=gbrlgrg&layout=compact&theme=tokyonight&hide_border=true"
     alt="Top Languages"
