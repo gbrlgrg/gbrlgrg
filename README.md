@@ -22,7 +22,7 @@ I am primarily interested in AI/ML, Data, and Software Engineering with a growin
 
 ## About Me
 
-I'm a Computer Science student majoring Software Technology at De La Salle University, currently splitting my time between learning AI/ML, data science, DevSecOps engineering and full-stack web development.
+I'm a Computer Science student majoring Software Technology at De La Salle University, currently splitting my time between learning AI/ML, data, automation, CI/CD and full-stack web development.
 
 - Coursework spans computer systems, algorithms, and web application development
 - Comfortable with React/TypeScript apps and test automation with Playwright
