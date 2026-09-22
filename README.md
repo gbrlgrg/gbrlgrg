@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm Gaibril Kyle Gregorio! 👋</h1>
 
-<h3 align="center">🎓 BS Computer Science Student @ De La Salle University</h3>
+<h3 align="center">BS Computer Science Student @ De La Salle University</h3>
 
 <p align="center">
-💻 AI/ML, Data, or Software Engineer in training.
+I am primarily interested in AI/ML, Data, and Software Engineering with a growing pursuit for Automation, Cloud, and CI/CD. 
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 
 ## About Me
 
-I'm a Computer Science student at De La Salle University, currently splitting my time between learning AI/ML, data science, DevSecOps engineering and full-stack web development.
+I'm a Computer Science student majoring Software Technology at De La Salle University, currently splitting my time between learning AI/ML, data science, DevSecOps engineering and full-stack web development.
 
 - Coursework spans computer systems, algorithms, and web application development
 - Comfortable with React/TypeScript apps and test automation with Playwright
