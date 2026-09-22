@@ -20,7 +20,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a Computer Science student at De La Salle University, currently splitting my time between learning AI/ML, data science, DevSecOps engineering and full-stack web development.
 
@@ -30,7 +30,7 @@ I'm a Computer Science student at De La Salle University, currently splitting my
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -62,7 +62,7 @@ I'm a Computer Science student at De La Salle University, currently splitting my
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img
@@ -95,7 +95,7 @@ I'm a Computer Science student at De La Salle University, currently splitting my
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/gaibrilgregorio/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
